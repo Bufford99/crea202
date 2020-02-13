@@ -1,0 +1,6 @@
+- 2 players
+- 10 rolls each
+- Highest score per roll
+- Duplicate scores allowed
+- Display each roll / score
+- Display final winner and score
